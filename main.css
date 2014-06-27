@@ -1,0 +1,9 @@
+/*Base*/
+body{
+	background: #eaeaea url(http://www.alessioatzeni.com/CSS3-Cycle-Image-Slider/res/img/bg.png) repeat;
+}
+.center-container{
+	max-width: 640px;
+	text-align: center;
+}
+/*Base*/
