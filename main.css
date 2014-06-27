@@ -3,7 +3,8 @@ body{
 	background: #eaeaea url(http://www.alessioatzeni.com/CSS3-Cycle-Image-Slider/res/img/bg.png) repeat;
 }
 .center-container{
-	max-width: 640px;
+	max-width: 960px;
 	text-align: center;
+	margin-top: 25px;
 }
 /*Base*/
